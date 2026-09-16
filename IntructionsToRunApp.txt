@@ -1,0 +1,7 @@
+How to run SoundsOfMyHeart App
+
+1. Install dependencies: pip install streamlit requests python-dotenv pandas
+2. Create a .env file with your own SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET, and TICKETMASTER_API_KEY
+3. Run: streamlit run app.py
+
+Done!
